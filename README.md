@@ -23,3 +23,6 @@ If you don't have Postman already installed, you can download it from [here](htt
 3. Expand the collection and start making REST API calls.
 
 ## Note: In case your instance of vManage has a self signed certificate, make sure you disable `SSL certificate verification` in Postman's settings.
+
+To disable SSL certificate verification go to Settings, click on switcher as in the screenshot below
+![SSL certificate verification](./postman_ssl_verification.png)
