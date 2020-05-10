@@ -27,3 +27,11 @@ If you don't have Postman already installed, you can download it from [here](htt
 To disable SSL certificate verification go to Settings, click on switcher as in the screenshot below
 
 ![SSL certificate verification](./postman_ssl_verification.png)
+
+
+## About me
+
+Network Automation Developer Advocate for Cisco DevNet.
+I'm like Hugh Hefner... minus the mansion, the exotic cars, the girls, the magazine and the money. So basically, I have a robe.
+
+Find me here: [LinkedIn](https://www.linkedin.com/in/stuarteclark/) / [Twitter](https://twitter.com/bigevilbeard)
